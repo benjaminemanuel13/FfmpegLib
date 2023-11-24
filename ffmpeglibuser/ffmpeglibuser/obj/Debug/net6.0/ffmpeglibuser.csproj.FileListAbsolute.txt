@@ -1,0 +1,16 @@
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglib.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglibuser.exe
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglibuser.deps.json
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglibuser.runtimeconfig.json
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglibuser.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ref\ffmpeglibuser.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\bin\Debug\net6.0\ffmpeglibuser.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.csproj.AssemblyReference.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.AssemblyInfoInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.AssemblyInfo.cs
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.csproj.CoreCompileInputs.cache
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ref\ffmpeglibuser.dll
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.pdb
+C:\Users\Ben Emanuel\source\$FFMpeg\main\ffmpeglibuser\ffmpeglibuser\obj\Debug\net6.0\ffmpeglibuser.genruntimeconfig.cache
